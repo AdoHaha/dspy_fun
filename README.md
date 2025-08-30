@@ -104,4 +104,4 @@ print(result)
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) file for details.
+MIT License - see [LICENSE](LICENSE) file for details. Please pop me a message if you want to use the slides in your presentations. 
